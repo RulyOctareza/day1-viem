@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/preview/hero.png" alt="Day 1 viem — ilustrasi starter web3" width="100%">
+  <img src="docs/preview/hero.svg" alt="Day 1 viem — ilustrasi starter web3" width="100%">
 </p>
 
 <h1 align="center">Day 1 — viem</h1>
